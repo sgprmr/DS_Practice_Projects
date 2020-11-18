@@ -1,5 +1,5 @@
-# DS_Practice_Projects
-Area-Plots-Histograms-and-Bar-Chart.ipynb
+# DS_Practice_Projects 
+- Area-Plots-Histograms-and-Bar-Chart.ipynb
 Classes-In-Python.ipynb
 Classification-Decision-Trees.ipynb
 Classification-Logistic-Regression.ipynb
