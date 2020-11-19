@@ -1,4 +1,4 @@
-# DS_Practice_Projects
+# Data Science Portfolio
 
 ## 1. Classification
   - Classification-Decision-Trees.ipynb
