@@ -1,4 +1,5 @@
-# DS_Practice_Projects 
+# DS_Practice_Projects
+
 ## 1. Classification
   - Classification-Decision-Trees.ipynb
   - Classification-Logistic-Regression.ipynb
